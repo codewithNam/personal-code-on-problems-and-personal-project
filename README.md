@@ -2,3 +2,5 @@
 Segment tree with coordinate compression : https://oj.vnoi.info/problem/tpbinhtphcm_0909
 
 RECTPOINTS: https://oj.clue.edu.vn/problem/qt_tst_24_e
+
+DENLONG:https://oj.clue.edu.vn/problem/hn_hsg_24_c
